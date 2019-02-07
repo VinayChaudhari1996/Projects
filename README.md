@@ -30,6 +30,13 @@ ___
 <p><a href="https://github.com/VinayChaudhari1996/Projects/blob/master/4.%20Titanic%20Survival%20Prediction%20-%20Logistic%20Regression/Logistic%20Regression%20with%20Python%20-%20Titanic.ipynb"><img src="http://elektromagnetisme.no/wp-content/uploads/2013/08/nb-1000x288.png" alt="View code" width="150"></a> </p>
 
 
+### 4) Loan Prediction
+
+___
+
+### 5) Breast Cancer Prediction
+
+___
 
 
 # Web - Application
